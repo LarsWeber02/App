@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "382507541118",
+    "project_id": "leben-mit-akne",
+    "storage_bucket": "leben-mit-akne.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382507541118:android:ff54877a78cfb5b0c66e2f",
+        "android_client_info": {
+          "package_name": "com.example.akne"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382507541118-9erpf8i3614d8jvevq6q6ss0fvv8f9pi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyxOh13V7NXbczGaxO-u3UuOn7GyWe_6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382507541118-9erpf8i3614d8jvevq6q6ss0fvv8f9pi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
